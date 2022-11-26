@@ -12,7 +12,7 @@ Sınırların arkasındaki amaç, x belirli bir değere "yaklaştığında" işl
 
 X, x eksenindeki "a" değerine yaklaştığında, f (x) işlevi y eksenindeki "L" değerine yaklaşır. Bu grafikte (a, L) noktasında b pembe bir nokta var. Bunu yapıyorum çünkü x = a'daki f fonksiyonunun değerini mutlaka olarak ne olduğunu bilmiyourz.
 
- Şimdi bildiğimiz bir fonksiyonun grafiğine dönelim:
+ Şimdi bildiğimiz bir fonksiyonun grafiğine bakalım:
 
  ![alt text](/Limit%20img/img2.png)
 

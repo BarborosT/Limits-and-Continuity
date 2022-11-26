@@ -12,7 +12,7 @@ The idea behind limits is to analyze what the function is "approaching" when x "
 
 When x approaches the value "a" in the x axis, the function f(x) approaches "L" in the y axis. In this graph I drawed a big pink hole at the point (a,L). I do this because we don't necessarily know the value of function f at x=a.
 
-Let's turn to the graph of a function whose expression we know:
+Now let's look at the graph of a function that we know:
 
 ![alt text](/Limit%20img/img2.png)
 
