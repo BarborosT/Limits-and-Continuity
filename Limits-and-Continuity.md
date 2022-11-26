@@ -14,5 +14,9 @@ When x approaches the value "a" in the x axis, the function f(x) approaches "L" 
 
 Now let's look at the graph of a function that we know:
 
-![alt text](/Limit%20img/img2.png)
+![alt text](/Limit%20img/img2.png)  <br/>
+
+This is the function f(x) = x2. Let's pay attention to the topic (1,1). From the graph, we can see that when x approaches 1, the function f (x) approaches 1. When this happens, you understand that:
+
+![alt text](/Limit%20img/img3.png) <br/>
 

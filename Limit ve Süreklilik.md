@@ -16,3 +16,5 @@ X, x eksenindeki "a" değerine yaklaştığında, f (x) işlevi y eksenindeki "L
 
  ![alt text](/Limit%20img/img2.png)
 
+ Bu, f(x) = x2 işlevidir. Konuya dikkat edelim (1,1). Grafikten, x 1'e yaklaştığında, f (x) fonksiyonunun 1'e yaklaştığını görebiliyoruz. Bu olduğunda, şunu anlıyourz:
+
